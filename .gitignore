@@ -3,3 +3,4 @@
 *.bat
 *.bat
 jdbc/gradlew.bat
+jdbc/gradle/wrapper/gradle-wrapper.jar
